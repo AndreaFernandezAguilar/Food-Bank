@@ -4,6 +4,7 @@ project:
     package:
         name: Food-Bank
         api_version: '50.0'
+        namespace: fb004
     git:
         default_branch: 'main'
     source_format: sfdx
